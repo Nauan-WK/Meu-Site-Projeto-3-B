@@ -1,7 +1,4 @@
-@font-face {
-    font-family: OCR a Std;
-    src: url(/home/escola/Documentos/ocr-a-std.otf);
-}
+@import url(/home/escola/Documentos/ocr-a-std.otf);
 
 body{
     background-color: black;
