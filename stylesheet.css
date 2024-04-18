@@ -7,6 +7,7 @@ body{
 }
 p{
     font-size: 22px;
-    font-family: cursive, sans-serif;
+    font-family: cursive;
+    font-weight: bold;
 
 }
