@@ -21,5 +21,8 @@ h2{
     text-align: left;
 }
 #titulo{
-    background-color: darkslategray;
+    background-color: rgb(40, 58, 58);
+}
+#texto{
+    background-color: white;
 }
