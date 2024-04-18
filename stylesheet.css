@@ -31,3 +31,11 @@ h2{
     text-align: right;
     width: 30%;
 }
+#cells1{
+    width: 30%;
+    text-align: left;
+}
+#cells2{
+    width: 30%;
+    text-align: right;
+}
