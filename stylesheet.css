@@ -19,5 +19,7 @@ h2{
     color: gold;
     font-size: 35px;
     text-align: left;
-    
+}
+#titulo{
+    background-color: darkslategray;
 }
