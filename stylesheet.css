@@ -15,13 +15,10 @@ h1{
     font-weight: bold;
 }
 h2{
-    color: darkblue;
+    color: skyblue;
     font-size: 35px;
     text-align: left;
 }
 #titulo{
     background-color: rgb(40, 58, 58);
-}
-#texto{
-    
 }
