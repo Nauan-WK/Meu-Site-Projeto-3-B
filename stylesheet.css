@@ -27,9 +27,13 @@ h2{
 #dlcs{
     background-color: rgb(56, 58, 58);
 }
-ul{
-    
+#dlcsdeadcells{
+    text-align: left;
+    font-size: 18px;
+    font-family: cursive, Verdana;
+    font-weight: bold;
 }
+
 
 #Zomboid2{
     text-align: left;
