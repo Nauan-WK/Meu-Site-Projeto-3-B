@@ -28,6 +28,7 @@ h2{
     background-color: rgb(56, 58, 58);
     margin-left: 50px;
     margin-right: 300px;
+    padding: 5px;
 }
 #dlcsdeadcells{
     text-align: left;
