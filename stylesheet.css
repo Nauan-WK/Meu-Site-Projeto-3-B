@@ -50,12 +50,11 @@ h2{
 }
 #Zomboid2{
     text-align: right;
-    width: 30%;
+    width: 28%;
     border-radius: 10px;
     border-style: solid;
     border-color: white;
     border-width: 2px;
-    top: 30px;
 }
 #cells1{
     width: 32%;
