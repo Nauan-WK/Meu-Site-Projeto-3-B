@@ -35,6 +35,7 @@ h2{
     border-bottom-style: solid;
     border-right-color: rgb(37, 37, 37);
     border-bottom-color: rgb(37, 37, 37);
+    border-width: 7px;
 }
 #dlcsdeadcells{
     text-align: left;
