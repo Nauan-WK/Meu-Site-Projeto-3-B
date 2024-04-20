@@ -1,3 +1,4 @@
+
 body{
     background-color: black;
     color: white;
@@ -11,8 +12,7 @@ p{
 }
 h1{
     font-size: 40px;
-    font-family:  "Jersey 25", Verdana, cursive, sans-serif;
-    font-style: normal;
+    font-family: , Verdana, cursive, sans-serif;
 }
 h2{
     color: skyblue;
