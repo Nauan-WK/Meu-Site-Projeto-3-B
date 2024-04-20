@@ -9,11 +9,6 @@ p{
     font-family: "Roboto", Verdana, cursive, sans-serif;
     font-weight: bold;
 }
-h1{
-    font-size: 55px;
-    font-family: "Jersey 10" , Verdana, cursive, sans-serif;
-    font-weight: lighter;
-}
 h2{
     font-family: "Road Rage", "Jersey 10", "Roboto", Verdana;
     color: skyblue;
@@ -23,6 +18,9 @@ h2{
 }
 #titulo{
     background-color: rgb(56, 58, 58);
+    font-size: 55px;
+    font-family: "Jersey 10" , Verdana, cursive, sans-serif;
+    font-weight: lighter;
 }
 #dlcs{
     background-color: rgb(56, 58, 58);
