@@ -42,16 +42,20 @@ h2{
 #Zomboid2{
     text-align: left;
     width: 30%;
+    border-radius: 10px;
 }
 #Zomboid3{
     text-align: right;
     width: 30%;
+    border-radius: 10px;
 }
 #cells1{
     width: 30%;
     text-align: left;
+    border-radius: 10px;
 }
 #cells2{
     width: 30%;
     text-align: right;
+    border-radius: 10px;
 }
