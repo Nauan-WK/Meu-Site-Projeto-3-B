@@ -17,6 +17,7 @@ h2{
     font-weight: lighter;
 }
 #titulo{
+    margin: 0px;
     background-color: rgb(56, 58, 58);
     font-size: 35px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
