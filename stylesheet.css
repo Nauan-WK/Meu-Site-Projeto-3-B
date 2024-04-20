@@ -31,6 +31,10 @@ h2{
     margin-right: 200px;
     padding: 5px;
     border-radius: 20px;
+    border-right-style: solid;
+    border-bottom-style: solid;
+    border-right-color: rgb(37, 37, 37);
+    border-bottom-color: rgb(37, 37, 37);
 }
 #dlcsdeadcells{
     text-align: left;
