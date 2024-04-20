@@ -55,6 +55,7 @@ h2{
     border-style: solid;
     border-color: white;
     border-width: 2px;
+    top: 30px;
 }
 #cells1{
     width: 32%;
