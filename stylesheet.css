@@ -1,3 +1,7 @@
+
+
+
+
 body{
     background-color: black;
     color: white;
@@ -6,12 +10,12 @@ body{
 
 p{
     font-size: 20px;
-    font-family: cursive, sans-serif;
+    font-family: Verdana, cursive, sans-serif;
     font-weight: bold;
 }
 h1{
     font-size: 40px;
-    font-family: cursive, sans-serif;
+    font-family: Verdana, cursive, sans-serif;
     font-weight: bold;
 }
 h2{
