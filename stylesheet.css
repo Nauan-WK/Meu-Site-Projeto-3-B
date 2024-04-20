@@ -17,8 +17,9 @@ h1{
 h2{
     font-family: "Road Rage", "Jersey 10", "Roboto", Verdana;
     color: skyblue;
-    font-size: 35px;
+    font-size: 40px;
     text-align: left;
+    font-weight: lighter;
 }
 #titulo{
     background-color: rgb(56, 58, 58);
