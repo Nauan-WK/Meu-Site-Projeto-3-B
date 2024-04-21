@@ -45,40 +45,6 @@ h2{
     font-weight: bold;
 }
 
-#Zomboid1{
-    text-align: left;
-    width: 33%;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: white;
-    border-width: 2px;
-    
-}
-#Zomboid2{
-    text-align: right;
-    width: 28%;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: white;
-    border-width: 2px;
-}
-#cells1{
-    width: 32%;
-    text-align: left;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: white;
-    border-width: 2px;
-}
-#cells2{
-    width: 30%;
-    text-align: right;
-    border-radius: 10px;
-    border-style: solid;
-    border-color: white;
-    border-width: 2px;
-
-}
 #cuphead1{
     text-align: left;
     width: 30%;
