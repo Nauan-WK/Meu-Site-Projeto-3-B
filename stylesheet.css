@@ -19,10 +19,11 @@ h2{
     font-weight: lighter;
 }
 #titulo{
-    background-color: rgb(56, 58, 58);
+    background-color: darkblue;
     font-size: 35px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
     font-weight: lighter;
+    color: lime;
 
 }
 #dlcs{
