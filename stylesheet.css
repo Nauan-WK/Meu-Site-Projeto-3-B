@@ -6,7 +6,7 @@ body{
 }
 
 p{
-    font-size: 20px;
+    font-size: 18px;
     font-family: "Roboto", Verdana, cursive, sans-serif;
     font-weight: bold;
     text-align: justify;
@@ -14,14 +14,14 @@ p{
 h2{
     font-family: "Road Rage", "Jersey 10", "Roboto", Verdana;
     color: crimson;
-    font-size: 50px;
+    font-size: 45px;
     text-align: left;
     font-weight: lighter;
 }
 #titulo{
     background-color: rgb(56, 58, 58);
     color: white);
-    font-size: 35px;
+    font-size: 30px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
     font-weight: lighter;
 }
