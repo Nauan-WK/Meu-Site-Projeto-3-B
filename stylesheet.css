@@ -98,3 +98,14 @@ h2{
     border-top-color: blue;
     border-left-color: blue;
 }
+#dlccuphead{
+    background-color:rgb(56, 58, 58);
+    border-style: solid;
+    border-width: 10px;
+    border-radius: 20px;
+    border-right-color: rgb(37, 37, 37);
+    border-bottom-color: rgb(37, 37, 37);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+}
