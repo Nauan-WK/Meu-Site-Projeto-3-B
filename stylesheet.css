@@ -19,11 +19,11 @@ h2{
     font-weight: lighter;
 }
 #titulo{
-    margin: 0px;
     background-color: rgb(56, 58, 58);
     font-size: 35px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
     font-weight: lighter;
+
 }
 #dlcs{
     background-color: rgb(56, 58, 58);
@@ -88,4 +88,10 @@ h2{
     text-align: right;
     width: 34%;
     border-radius: 10px;
+}
+#imagemcomeco{
+    border-radius: 10px;
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
 }
