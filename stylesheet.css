@@ -109,3 +109,9 @@ h2{
     margin-right: 200px;
     margin-top: 20px;
 }
+#lastcoursedlc{
+    text-align: left;
+    font-size: 18px;
+    font-family: cursive, Verdana;
+    font-weight: bold;
+}
