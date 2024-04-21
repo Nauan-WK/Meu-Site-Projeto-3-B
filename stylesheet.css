@@ -20,10 +20,11 @@ h2{
 }
 #titulo{
     background-color: darkblue;
+    color: lime;
     font-size: 35px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
     font-weight: lighter;
-    color: lime;
+    
 
 }
 #dlcs{
