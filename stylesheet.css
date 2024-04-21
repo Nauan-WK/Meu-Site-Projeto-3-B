@@ -92,6 +92,9 @@ h2{
 #imagemcomeco{
     border-radius: 10px;
     border-style: solid;
-    border-color: white;
-    border-width: 2px;
+    border-width: 4px;
+    border-right-color: red;
+    border-bottom-color: red;
+    border-top-color: blue;
+    border-left-color: blue;
 }
