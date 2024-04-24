@@ -35,7 +35,9 @@ h2{
     font-size: 30px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
     font-weight: lighter;
-    margin: 0px;
+    margin-right: 0;
+    margin-left: 0;
+    
 }
 #dlcs{
     background-color: rgb(56, 58, 58);
