@@ -1,4 +1,15 @@
 
+@media screen and (max-width: 767px){
+#imagemcomeço{
+    max-width: 100%;
+    height: auto;}
+
+p{font-size: 14px;
+    padding: 5%;}
+
+}
+
+
 body{
     background-color: black;
     color: white;
@@ -52,6 +63,8 @@ h2{
     border-bottom-color: red;
     border-top-color: blue;
     border-left-color: blue;
+    max-width: 100%;
+    height: auto;
 }
 #dlccuphead{
     background-color:rgb(56, 58, 58);
