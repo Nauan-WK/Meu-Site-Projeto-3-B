@@ -24,7 +24,6 @@ h2{
     font-size: 30px;
     font-family: "Jersey 10" , Verdana, cursive, sans-serif;
     font-weight: lighter;
-    
 }
 #dlcs{
     background-color: rgb(56, 58, 58);
@@ -53,8 +52,6 @@ h2{
     border-bottom-color: red;
     border-top-color: blue;
     border-left-color: blue;
-    max-width: 100%;
-    height: auto;
 }
 #dlccuphead{
     background-color:rgb(56, 58, 58);
