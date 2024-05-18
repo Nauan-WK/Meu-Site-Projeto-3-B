@@ -28,7 +28,7 @@ h2{
 #dlcs{
     background-color: rgb(56, 58, 58);
     margin-top: 20px;
-    margin-left: 200px;
+    margin-left: 500px;
     margin-right: 500px;
     padding: 8px;
     border-radius: 20px;
@@ -37,7 +37,6 @@ h2{
     border-right-color: rgb(37, 37, 37);
     border-bottom-color: rgb(37, 37, 37);
     border-width: 10px;
-    text-align: center;
 }
 #dlcsdeadcells{
     text-align: left;
